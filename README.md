@@ -1,5 +1,7 @@
 # autka
 "Autka" CLI game made for fun
+
+Game is configured for MacOS/linux terminal iterface
 # Keyboard inputs
 'W' or 'F' - move forward
 
